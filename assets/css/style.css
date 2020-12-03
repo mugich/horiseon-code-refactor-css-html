@@ -57,6 +57,7 @@ a {
     background-position: center;
 }
 
+/*content styling*/
 p {
     font-size: 16px;
 }
@@ -95,6 +96,7 @@ p {
     font-size: 36px;
 }
 
+/*aside class styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -122,6 +124,7 @@ p {
     max-width: 150px;
 }
 
+/*footer styling*/
 footer {
     padding: 30px;
     clear: both;
