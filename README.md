@@ -27,9 +27,9 @@ The following are the links to those sites:
 
 * [Google](https://www.google.com)
 * [w3school.com](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [developer.mozilla.org/](https://https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+* [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-Repository 
+### Web application's appearance
 
-![]
+![screenshot](./assets/images/web-appearance.png)
 
